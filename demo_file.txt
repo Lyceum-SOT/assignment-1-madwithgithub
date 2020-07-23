@@ -1,2 +1,3 @@
 #!/bin/sh
 echo "Hi! I'm $(whoami) and today is $(date)"
+Hi! I'm Swasti today is Thu, Jul 23, 2020 10:02:36 PM
